@@ -11,3 +11,4 @@ task9
 a script that display the result of breath to the power love
 a script that converts from binary to decimal
 a script that prints all possible combinations of two letters except"oo"
+a script that prints a number in two decimal places
