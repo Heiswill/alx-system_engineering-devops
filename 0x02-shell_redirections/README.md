@@ -18,3 +18,4 @@ Display the third line of the file iacta
 17. Display the lines in the file /etc/passwd that do not contain the pattern bin
 18. Display lines of the files /etc/ssh/sshd_config startinf with a letter
 19. Replace all character A and c from inputs Z and e
+20. A script that removes all letters c and C from input
