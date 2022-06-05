@@ -20,3 +20,4 @@ Display the third line of the file iacta
 19. Replace all character A and c from inputs Z and e
 20. A script that removes all letters c and C from input
 21. A script that reverse its input
+22. A scriptthe display all users and their home directory, sorted by user
