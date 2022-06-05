@@ -11,3 +11,4 @@ Display the third line of the file iacta
 10. A script that delete files(not directories) with a .js extension in the present directory and it's subfolders
 11. A script that counts the number of directories and subdirectories in the current directory
 12. A script that display newest files
+13. Take a list of words and print only words that appear exactly once
