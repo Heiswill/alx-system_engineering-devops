@@ -13,3 +13,4 @@ Display the third line of the file iacta
 12. A script that display newest files
 13. Take a list of words and print only words that appear exactly once
 14. Display lines containing the pattern "root" from the file /etc/passwd
+15. Display line that contains the pattern "bin" /etc/passwd
