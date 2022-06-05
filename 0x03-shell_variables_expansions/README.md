@@ -13,3 +13,4 @@ a script that converts from binary to decimal
 a script that prints all possible combinations of two letters except"oo"
 a script that prints a number in two decimal places
 a script to encode and decode a file using rot13
+a script that prints every line from the input, starting with the first starting with the first line
