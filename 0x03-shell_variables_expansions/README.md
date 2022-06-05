@@ -7,3 +7,4 @@ a script that prints local variables, environment variables and its functions
 a scriptt that creates a new local variable
 a script that prints a new global variable
 a script that prints result
+task9
