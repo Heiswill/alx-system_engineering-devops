@@ -9,3 +9,4 @@ Display the third line of the file iacta
 8. Write into a file the result of output of another file
 9. A script that duplicate the last line of a file
 10. A script that delete files(not directories) with a .js extension in the present directory and it's subfolders
+11. A script that counts the number of directories and subdirectories in the current directory
