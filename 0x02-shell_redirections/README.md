@@ -7,3 +7,4 @@ Displaythe last 10 lines of /etc/passwd
 Display the third line of the file iacta
 7. Create a file containing a file
 8. Write into a file the result of output of another file
+9. A script that duplicate the last line of a file
