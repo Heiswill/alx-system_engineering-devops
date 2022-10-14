@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Displays 'Best School' in stdout 10 times using a while loop
+
 
 s="Best School"
 i=0
