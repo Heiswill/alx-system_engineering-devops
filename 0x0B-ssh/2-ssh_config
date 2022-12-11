@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# SSH client configuration
+# Configure to use private key ~/.ssh/school
+# Configure to refuse to authenticate using a password
+Host 192.168.43.58
+IdentityFile ~/.ssh/school
+PasswordAuthentication no
